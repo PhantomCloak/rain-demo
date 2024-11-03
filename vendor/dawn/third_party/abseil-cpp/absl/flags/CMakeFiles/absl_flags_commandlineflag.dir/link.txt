@@ -1,0 +1,2 @@
+/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libabsl_flags_commandlineflag.a CMakeFiles/absl_flags_commandlineflag.dir/commandlineflag.cc.o
+/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libabsl_flags_commandlineflag.a

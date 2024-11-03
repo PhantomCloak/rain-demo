@@ -1,0 +1,2 @@
+/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_utils_ice.a CMakeFiles/tint_utils_ice.dir/utils/ice/ice.cc.o
+/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_utils_ice.a

@@ -1,0 +1,2 @@
+/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_utils_text.a CMakeFiles/tint_utils_text.dir/utils/text/string.cc.o CMakeFiles/tint_utils_text.dir/utils/text/string_stream.cc.o CMakeFiles/tint_utils_text.dir/utils/text/unicode.cc.o
+/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_utils_text.a

@@ -1,0 +1,2 @@
+/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_utils_generator.a CMakeFiles/tint_utils_generator.dir/utils/generator/text_generator.cc.o
+/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_utils_generator.a

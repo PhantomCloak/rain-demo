@@ -1,0 +1,2 @@
+/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_utils_id.a CMakeFiles/tint_utils_id.dir/utils/id/generation_id.cc.o
+/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_utils_id.a

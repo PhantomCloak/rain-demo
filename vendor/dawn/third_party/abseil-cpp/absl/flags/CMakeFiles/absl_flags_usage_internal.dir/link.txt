@@ -1,0 +1,2 @@
+/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libabsl_flags_usage_internal.a CMakeFiles/absl_flags_usage_internal.dir/internal/usage.cc.o
+/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libabsl_flags_usage_internal.a

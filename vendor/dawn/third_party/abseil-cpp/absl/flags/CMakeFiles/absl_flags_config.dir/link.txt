@@ -1,0 +1,2 @@
+/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libabsl_flags_config.a CMakeFiles/absl_flags_config.dir/usage_config.cc.o
+/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libabsl_flags_config.a

@@ -1,0 +1,2 @@
+/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_lang_spirv_reader_common.a CMakeFiles/tint_lang_spirv_reader_common.dir/lang/spirv/reader/common/common.cc.o
+/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_lang_spirv_reader_common.a

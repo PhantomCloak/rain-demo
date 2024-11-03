@@ -1,0 +1,2 @@
+/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_utils_containers.a CMakeFiles/tint_utils_containers.dir/utils/containers/containers.cc.o
+/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_utils_containers.a

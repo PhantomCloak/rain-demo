@@ -1,0 +1,2 @@
+/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_lang_spirv_intrinsic.a CMakeFiles/tint_lang_spirv_intrinsic.dir/lang/spirv/intrinsic/data.cc.o
+/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_lang_spirv_intrinsic.a

@@ -1,0 +1,2 @@
+/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libabsl_bad_variant_access.a CMakeFiles/absl_bad_variant_access.dir/bad_variant_access.cc.o
+/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libabsl_bad_variant_access.a
