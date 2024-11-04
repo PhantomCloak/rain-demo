@@ -1,2 +1,0 @@
-/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libabsl_statusor.a CMakeFiles/absl_statusor.dir/statusor.cc.o
-/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libabsl_statusor.a

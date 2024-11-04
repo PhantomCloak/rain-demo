@@ -1,2 +1,0 @@
-/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_utils_rtti.a CMakeFiles/tint_utils_rtti.dir/utils/rtti/castable.cc.o
-/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_utils_rtti.a

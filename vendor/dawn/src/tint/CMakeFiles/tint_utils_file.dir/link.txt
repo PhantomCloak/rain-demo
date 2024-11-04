@@ -1,2 +1,0 @@
-/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_utils_file.a CMakeFiles/tint_utils_file.dir/utils/file/tmpfile_other.cc.o
-/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_utils_file.a

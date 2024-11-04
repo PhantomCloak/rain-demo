@@ -1,2 +1,0 @@
-/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libabsl_spinlock_wait.a CMakeFiles/absl_spinlock_wait.dir/internal/spinlock_wait.cc.o
-/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libabsl_spinlock_wait.a

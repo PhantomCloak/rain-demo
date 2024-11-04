@@ -1,2 +1,0 @@
-/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_utils_socket.a CMakeFiles/tint_utils_socket.dir/utils/socket/socket.cc.o
-/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_utils_socket.a

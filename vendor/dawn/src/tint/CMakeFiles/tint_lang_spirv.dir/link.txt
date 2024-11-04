@@ -1,2 +1,0 @@
-/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_lang_spirv.a CMakeFiles/tint_lang_spirv.dir/lang/spirv/builtin_fn.cc.o
-/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_lang_spirv.a

@@ -1,2 +1,0 @@
-/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_lang_wgsl_program.a CMakeFiles/tint_lang_wgsl_program.dir/lang/wgsl/program/clone_context.cc.o CMakeFiles/tint_lang_wgsl_program.dir/lang/wgsl/program/program.cc.o CMakeFiles/tint_lang_wgsl_program.dir/lang/wgsl/program/program_builder.cc.o
-/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_lang_wgsl_program.a

@@ -1,2 +1,0 @@
-/home/phantom/Developer/emsdk/upstream/emscripten/emar qc libtint_lang_wgsl_writer_syntax_tree_printer.a CMakeFiles/tint_lang_wgsl_writer_syntax_tree_printer.dir/lang/wgsl/writer/syntax_tree_printer/syntax_tree_printer.cc.o
-/home/phantom/Developer/emsdk/upstream/emscripten/emranlib libtint_lang_wgsl_writer_syntax_tree_printer.a
